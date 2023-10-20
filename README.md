@@ -11,6 +11,6 @@ When they download the app, the user can either login or register an account wit
   
   - Art Prompt View: Using a random word API, this app generates a random noun, animal, and adjective to provide some artistic inspiration to the user.
 
-  - Settings View: The last screen the user has access to is the one containing the settings. From here, the user can check their username and their partner's name. They also have the ability to log out or to remove their partner. If the latter is done, then the user must pair with another partner before they are allowed to have access to the rest of the app.
+  - Settings View: From here, the user can check their username and their partner's name. They also have the ability to log out or to remove their partner. If the latter is done, then the user must pair with another partner before they are allowed to have access to the rest of the app.
 
 Note: This app includes Firebase packages, which includes Firebase Authentication, Firestore Database, and Storage. Additionally, to allow the user to save their drawing to their device, you must use 'Privacy - Photo Library Additions Usage Description' to request access to their camera roll. 
